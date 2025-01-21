@@ -1,0 +1,8 @@
+﻿  Moneda.cpp
+Moneda.cpp(140): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+Moneda.cpp(201): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+Moneda.cpp(234): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\salvador ventura\desktop\figuaras aleatorias\project3\moneda.cpp(208): warning C4715: 'CMoneda::Get_alto': no todas las rutas de acceso de control devuelven un valor
+c:\users\salvador ventura\desktop\figuaras aleatorias\project3\moneda.cpp(240): warning C4715: 'CMoneda::Get_ancho': no todas las rutas de acceso de control devuelven un valor
+  Project3.vcxproj -> C:\Users\SALVADOR VENTURA\Desktop\Figuaras Aleatorias\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\SALVADOR VENTURA\Desktop\Figuaras Aleatorias\Debug\Project3.pdb (Full PDB)
